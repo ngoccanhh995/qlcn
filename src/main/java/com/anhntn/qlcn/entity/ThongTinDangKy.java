@@ -23,4 +23,7 @@ public class ThongTinDangKy {
 
     @Column (name = "thoiGianDangKy")
     private Date thoiGianDangKy;
+
+
+    
 }
